@@ -1,0 +1,14 @@
+body {
+    width: 200px;
+    height: 80px;
+  }
+  
+  #counter-container {
+    margin: 10px;
+  }
+  
+  #word-count, #char-count {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
